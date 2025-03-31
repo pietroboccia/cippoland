@@ -1,0 +1,39 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="200" height="200">
+	<title>launcher</title>
+	<style>
+		.s0 { fill: #736771 } 
+		.s1 { fill: #5d505b } 
+		.s2 { fill: #ffffff } 
+		.s3 { fill: #938991 } 
+		.s4 { opacity: .28;fill: #534551 } 
+	</style>
+	<g>
+		<g>
+			<path class="s0" d="m256.3 200.6h-150.3v-63.9h150.3z"/>
+			<path class="s1" d="m270.3 200.6h-26v-63.9h26z"/>
+			<path class="s1" d="m106 200.6h-26v-63.9h26z"/>
+			<path class="s0" d="m130.8 133.1c-27.4 0-49.7 30.2-49.7 67.5h49.7z"/>
+			<path class="s1" d="m326.4 200.6h-14.4v-17.1h14.4z"/>
+			<path class="s0" d="m262.8 136.7h-194.5v-51.5h194.5z"/>
+			<path class="s1" d="m68.3 136.7h-15v-51.5h15z"/>
+			<path class="s2" d="m277.8 136.7h-15v-51.5h15z"/>
+			<path class="s0" d="m256.3 264.5h-150.3v-63.9h150.3z"/>
+			<path class="s1" d="m270.3 264.5h-26v-63.9h26z"/>
+			<path class="s1" d="m106 264.5h-26v-63.9h26z"/>
+			<path class="s0" d="m130.8 268.1c-27.4 0-49.7-30.2-49.7-67.5h49.7z"/>
+			<g>
+				<path class="s3" d="m312 200.5v-17h-87.5l-30.6-46.8h-87.9v63.9h129.7l-0.1-0.1z"/>
+				<path class="s3" d="m224.5 217.7h87.5v-17h-76.4l0.1-0.1h-129.7v63.9h87.9z"/>
+			</g>
+			<path class="s1" d="m326.4 217.7h-14.4v-17.1h14.4z"/>
+			<g>
+				<path class="s3" d="m346.7 200.6h-20.3v-26.8h20.3z"/>
+				<path class="s3" d="m346.7 227.4h-20.3v-26.8h20.3z"/>
+			</g>
+			<path class="s0" d="m262.8 316h-194.5v-51.5h194.5z"/>
+			<path class="s1" d="m68.3 316h-15v-51.5h15z"/>
+			<path class="s2" d="m277.8 316h-15v-51.5h15z"/>
+			<path class="s4" d="m277.9 264.5h-7.5v-46.8h41.7 14.4v9.7h20.3v-26.8h-20.3-14.4v0.1h-41.7v-0.1h-14-12-8.6-104.9-24.8-24.9-1.1v63.9h-11.7-15.1v51.5h15.1 194.4 15.1z"/>
+		</g>
+	</g>
+</svg>
