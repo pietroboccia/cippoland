@@ -13,7 +13,7 @@ body {
   box-sizing: border-box;
   width: 100%;
   height: 100vh;
-  background: url('images/back.svg') no-repeat center center;
+  background: url('./images/back.svg') no-repeat center center;
   background-size: cover;
 }
 

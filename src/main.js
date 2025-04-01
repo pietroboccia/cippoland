@@ -32,9 +32,9 @@ let totalScore = 0;
 let scoreText;
 
 function preload() {
-  this.load.image('ball', 'images/ball.svg'); // Replace with actual path
-  this.load.image('peg', 'images/peg.svg'); // Replace with actual path
-  this.load.image('launcher', 'images/launcher.svg'); // Replace with actual launcher image path
+  this.load.image('ball', './images/ball.svg'); // Replace with actual path
+  this.load.image('peg', './images/peg.svg'); // Replace with actual path
+  this.load.image('launcher', './images/launcher.svg'); // Replace with actual launcher image path
 }
 
 function create() {
